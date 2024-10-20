@@ -10,3 +10,7 @@ My key takeaways from this project:
 2. The basic workflow of machine learning and use of pipeline
 3. Pros and cons of parameter tuning with Bayesian, random and grid searches
 4. Different types of evaluation metrics
+
+The full report can be viewed here:
+
+https://docs.google.com/document/d/1FE1IA8nLBr71Eu98xEGcIqltl-pKC9uw0I3veI_tBWA/edit?usp=sharing
